@@ -1,5 +1,6 @@
-##**Airbnb Analysis**
-**Approach:**
+ # **Airbnb Analysis**
+
+## **Approach:**
 **MongoDB Connection and Data Retrieval:** Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset. Perform queries and data retrieval operations to extract the necessary information for your analysis.
 
 **Data Cleaning and Preparation:** Clean the Airbnb dataset by handling missing values, removing duplicates, and transforming data types as necessary. Prepare the dataset for EDA and visualization tasks, ensuring data integrity and consistency.
@@ -16,33 +17,27 @@
 
 **Dashboard Creation:** Utilize Tableau or Power BI to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
 
-Technologies Used
+## Technologies Used
 The following technologies are used in this project:
 
-Python: The programming language used for building the application and scripting tasks.
+**Python**: The programming language used for building the application and scripting tasks.
 
-Streamlit: A Python library used for creating interactive web applications and data visualizations.
+**EDA**: EDA is used to understand and analysis for our knowledge.
 
-EDA: EDA is used to understand and analysis for our knowledge.
+**MongoDB**: A NoSQL database used as a data lake for storing retrieved YouTube data.
 
-MongoDB: A NoSQL database used as a data lake for storing retrieved YouTube data.
+**Pandas**: A data manipulation library used for data processing and analysis.
 
-Pandas: A data manipulation library used for data processing and analysis.
+**PowerBI**: It's a Reporting tool for creating charts like (bar,pie,scatter,histogram,map,donut,treemap,heatmap,etc) and creating dashboar
 
-Matplotlib: A data visualization library used for creating charts and graphs.
+**Skills**:
 
-Tableau: It's a Reporting tool for creating charts like (bar,pie,scatter,histogram,map,donut,treemap,heatmap,etc) and creating dashboar
+**Python scripting**
 
-Skills:
+**Data Preprocessing, Visualization**
 
-Python scripting
+**EDA**
 
-Data Preprocessing, Visualization
+**MongoDb**
 
-EDA
-
-Streamlit
-
-MongoDb
-
-PowerBI
+**PowerBI**
